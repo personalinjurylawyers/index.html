@@ -321,7 +321,7 @@ html[dir="rtl"] .hfg--customize-builder.hfg--builder-show.hfg--builder--hide .hf
 html[dir="rtl"] .hfg--customize-builder .hfg--cb-inner {margin-left: 0px;margin-right: 300px;}
 .hfg--customize-builder .hfg--cb-body {height: 295px;overflow: auto;display: block;}
 .hfg--cb-body {position: relative;overflow: hidden;}
-.hfg--device-panel {display: flex;flex-wrap: wrap;flex-direction: row-reverse;z-index: 4;position: relative;}
+.hfg--device-panel {display: flex;flex-wrap: wrap;flex-direction: row-reverse;z-index: 4;position: relative;padding: 30px 20px 20px;overflow: hidden;}
 .hfg--device-panel:before, .hfg--device-panel:after {content: "";display: block;clear: both;}
 .hfg--device-panel:after {clear: both;}
 .hfg--device-panel.hfg--panel-hide {opacity: 0;height: 0;overflow: hidden;display: block;z-index: 1;position: absolute;top: -99999px;left: -99999px;width: 0px;}
@@ -350,7 +350,7 @@ html[dir="rtl"] .hfg--cb-header .hfg--cb-devices-switcher {float: right;}
 html[dir="rtl"] .hfg--cb-header .hfg--cb-actions {float: left;}
 .hfg--cb-header .hfg--cb-actions a {display: inline-block;margin-left: 10px;}
 .hfg--cb-header .hfg--cb-actions .builder-version-change {text-transform: uppercase;}
-.hfg--cb-body {padding: 30px 20px 20px;position: relative;z-index: 4;}
+.hfg--cb-body {position: relative;z-index: 4;}
 .hfg--cb-footer {position: relative;z-index: 5;}
 .hfg--cb-row {padding: 0;position: relative;border: 1px solid #ddd;display: flex;margin-bottom: 10px;margin-left: 20px;}
 html[dir="rtl"] .hfg--cb-row {margin-right: 20px;margin-left: 0;}
