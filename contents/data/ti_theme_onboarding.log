@@ -1,18 +1,20 @@
-[14/Jun/2019:21:22:56] (ℹ️): WordPress Instance Info:
-[14/Jun/2019:21:22:56] (ℹ️): Home URL : http://127.0.0.1/wordpress
-[14/Jun/2019:21:22:56] (ℹ️): Site URL : http://127.0.0.1/wordpress
-[14/Jun/2019:21:22:56] (ℹ️): WordPress Version : 5.2.1
-[14/Jun/2019:21:22:56] (ℹ️): Onboarding Version : 1.4.1
-[14/Jun/2019:21:22:56] (ℹ️): Multisite : No
-[14/Jun/2019:21:22:56] (ℹ️): Server Info : Apache
-[14/Jun/2019:21:22:56] (ℹ️): PHP Version : 7.3.5
-[14/Jun/2019:21:22:56] (ℹ️): HTTPS : No
-[14/Jun/2019:21:22:56] (ℹ️): PHP Max Execution Time : 120
-[14/Jun/2019:21:22:56] (ℹ️): PHP Max Input Vars : 1000
-[14/Jun/2019:21:22:56] (ℹ️): Max Upload Size : 41943040
-[14/Jun/2019:21:22:56] (ℹ️): Plugins:
-[14/Jun/2019:21:22:56] (ℹ️): [PLUGIN] All In One SEO Pack : v3.1 (Michael Torbert)
-[14/Jun/2019:21:22:56] (ℹ️): [PLUGIN] Gutenberg Blocks and Template Library by Otter : v1.2.3 (ThemeIsle)
-[14/Jun/2019:21:22:56] (ℹ️): [PLUGIN] WP2Static : v6.6.5 (Leon Stafford)
-[14/Jun/2019:21:22:56] (ℹ️): [PLUGIN] Orbit Fox Companion : v2.8.4 (Themeisle)
-[14/Jun/2019:21:22:56] (ℹ️): [PLUGIN] Was This Article Helpful? : v1.0.1 (WaspThemes)
+[21/Jun/2019:14:58:01] (ℹ️): WordPress Instance Info:
+[21/Jun/2019:14:58:01] (ℹ️): Home URL : http://127.0.0.1/wordpress
+[21/Jun/2019:14:58:01] (ℹ️): Site URL : http://127.0.0.1/wordpress
+[21/Jun/2019:14:58:01] (ℹ️): WordPress Version : 5.2.2
+[21/Jun/2019:14:58:01] (ℹ️): Onboarding Version : 1.4.1
+[21/Jun/2019:14:58:01] (ℹ️): Multisite : No
+[21/Jun/2019:14:58:01] (ℹ️): Server Info : Apache
+[21/Jun/2019:14:58:01] (ℹ️): PHP Version : 7.3.5
+[21/Jun/2019:14:58:01] (ℹ️): HTTPS : No
+[21/Jun/2019:14:58:01] (ℹ️): PHP Max Execution Time : 600
+[21/Jun/2019:14:58:01] (ℹ️): PHP Max Input Vars : 1000
+[21/Jun/2019:14:58:01] (ℹ️): Max Upload Size : 41943040
+[21/Jun/2019:14:58:01] (ℹ️): Plugins:
+[21/Jun/2019:14:58:01] (ℹ️): [PLUGIN] All In One SEO Pack : v3.1.1 (Michael Torbert)
+[21/Jun/2019:14:58:01] (ℹ️): [PLUGIN] kk Star Ratings : v2.6.4 (Kamal Khan)
+[21/Jun/2019:14:58:01] (ℹ️): [PLUGIN] Gutenberg Blocks and Template Library by Otter : v1.2.3 (ThemeIsle)
+[21/Jun/2019:14:58:01] (ℹ️): [PLUGIN] Schema App Structured Data : v1.13.0 (Hunch Manifest)
+[21/Jun/2019:14:58:01] (ℹ️): [PLUGIN] WP2Static : v6.6.5 (Leon Stafford)
+[21/Jun/2019:14:58:01] (ℹ️): [PLUGIN] Orbit Fox Companion : v2.8.4 (Themeisle)
+[21/Jun/2019:14:58:01] (ℹ️): [PLUGIN] W3 Total Cache : v0.9.7.5 (Frederick Townes)
